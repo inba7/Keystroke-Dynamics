@@ -1,5 +1,4 @@
-# KeystrokeDynamics
-# Web-Based Authentication System
+# KeystrokeDynamics: Web-Based Authentication System
 # Abstract
 
 Keystroke Dynamics-based biometric identification technologies have been in use for almost 40 years. Identification of people based on their physiological or behavioural characteristics has always attracted a lot of interest. Keystroke Dynamics focuses on the specific way that a person types on a keyboard.
@@ -13,5 +12,3 @@ The proposed techniques are based on the idea that a letter's or a group of lett
 
 # Results
 The proposed research's findings should be used to assess whether the methodology and Keystroke Dynamics are suitable for reliably identifying users from the text they type. From this point forward, it might be applied as a way to make sure a user isn't replaced, in authentication protocols, or even to help identify the authors of various sections of a document written by multiple users.
-
-Keywords : Keystroke Dynamics, context, free text, identification, authentication
